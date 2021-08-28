@@ -80,7 +80,7 @@ body {
     transition: all .3s ease-in-out;
   }
   .save-delete i.fa-trash{
-    font-size: 18px;
+    font-size: 26px;
     padding-left: 8px;
   }
   .save-delete i.fa-trash:hover {
